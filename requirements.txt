@@ -4,6 +4,7 @@ annotated-types==0.6.0
 anyio==3.7.1
 async-timeout==4.0.3
 attrs==23.1.0
+Brotli==1.1.0
 certifi==2023.11.17
 charset-normalizer==3.3.2
 dataclasses-json==0.6.3
@@ -18,11 +19,14 @@ langchain-core==0.0.10
 langsmith==0.0.69
 marshmallow==3.20.1
 multidict==6.0.4
+mutagen==1.47.0
 mypy-extensions==1.0.0
 numpy==1.26.2
 packaging==23.2
+pycryptodomex==3.19.0
 pydantic==2.5.2
 pydantic_core==2.14.5
+pydub==0.25.1
 pypdf==3.17.1
 PyYAML==6.0.1
 requests==2.31.0
@@ -32,4 +36,6 @@ tenacity==8.2.3
 typing-inspect==0.9.0
 typing_extensions==4.8.0
 urllib3==2.1.0
+websockets==12.0
 yarl==1.9.3
+yt-dlp==2023.11.16
